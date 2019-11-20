@@ -1,0 +1,52 @@
+	body{
+			background-color: #520055;
+			padding: 0.1em;
+			text-align: center;
+		}
+
+		header{
+			background-color: #e0d0fe;
+			padding: 0.01em;
+			text-align: center;
+			margin-bottom: 0.25em;
+		}
+
+		.section{
+			background-color: #afbf93;
+			padding: 0.2em;
+			margin: 0.5em;
+		}
+
+		.divo{
+			background-color: #f6eaf7;
+			padding: 0.1em;
+			text-align: center;
+			margin-top: 0.25em;
+		}
+		li{
+			list-style-type: none;
+			font-style: Sans-serif;
+			font-size: 1.5em;
+		}
+		.darker{
+			background-color: #180019;
+			padding: 0.01em;
+			width: 80%;
+			margin-left: 10%;
+		}
+		.darkest{
+			background-color: #e0d0ff;
+			padding: 0.5em;
+			margin: 3%;
+		}
+		.lighter{
+			background-color: #e7e5ff;
+			padding: 0.01em;
+			text-align: center;
+			margin: 0.05em;
+		
+		}
+		
+		.bli{
+			color: blue;
+		}
