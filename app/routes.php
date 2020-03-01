@@ -20,11 +20,11 @@
 	]);*/
 
 
-$router -> get('', 'PagesController@home');
+$router -> get('', 'PagesController@login');
 
 $router -> get('home', 'PagesController@home');
 
-$router -> get('docs', 'PagesController@docs');
+$router -> get('login', 'PagesController@login');
 
 $router -> get('info', 'PagesController@info');
 

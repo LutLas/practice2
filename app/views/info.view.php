@@ -1,9 +1,6 @@
-<?php require('partials/top.php'); ?>
+<?php require('partials/head.php'); ?>
 
-				Info
-				
-			</h2>
-		</header>
+<body>
 <small>General Information</small>
 			<div class="divo">
 				
